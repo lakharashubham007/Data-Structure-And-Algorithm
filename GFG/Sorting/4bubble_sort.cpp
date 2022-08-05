@@ -19,9 +19,9 @@ void bubbleSort(int arr[], int n) {
 
 
 int main() {
-    int a[] = { 2,1,3,4 };
-    bubbleSort(a, 4);
-    for(int i =0; i< 4; i++){
+    int a[] = { 1,0,1,1,0 };
+    bubbleSort(a, 5);
+    for(int i =0; i< 5; i++){
         cout<<a[i]<<" ";
     }
     return 0;
