@@ -63,4 +63,41 @@ int main() {
 
 
 
-  // } Driver Code Ends
+  // OPTIMIZED APPROACH
+
+  
+
+  /* 
+https://www.geeksforgeeks.org/sort-binary-array-using-one-traversal/
+
+Approach: This concept is related to partition of quick sort . In quick sort partition, after one scan, the left of the array is smallest and right of the array is the largest of selected pivot element.
+Algorithm: 
+ 
+
+Create a variable index say j = -1
+Traverse the array from start to end
+If the element is 0 then swap the current element with the element at index( jth ) position and increment the index (j) by 1.
+If the element is 1 keep the element as it is.
+
+
+
+  
+
+  QUICK SORT APPROACH
+  
+   void binSort(int A[], int N)
+    {
+       
+      int j = -1;
+    for (int i = 0; i < N; i++) {
+ 
+        // if number is smaller than 1
+        // then swap it with j-th number
+        if (A[i] < 1) {
+            j++;
+            swap(A[i], A[j]);
+        }
+    }
+    }
+
+  */

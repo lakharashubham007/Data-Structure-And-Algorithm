@@ -43,3 +43,21 @@ let N = A.length;
 let obj = new Solution();
 obj.binSort(A, N);
 printArray(A, N);
+
+
+
+//sOLUTION 2
+
+function sortBinary(a, n){
+    let i = -1;
+    for(let j=0; i<n; i++) {
+       if(a[i] < piviot){
+        j++;
+        let temp = a[j];
+        a[j] = a[i];
+        a[i] = temp; 
+       }
+    }
+}
+
+
