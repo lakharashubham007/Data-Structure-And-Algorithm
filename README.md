@@ -8,5 +8,9 @@
 |3|[xyz]()|[code]()|[code]()|:green_square:Easy| amazone
 
 
+## Searching Problems CompanyWise
 
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
+|-----|----------------|----------|----------|-------------|-------- 
+|1|[Searching an element in a sorted array]()|[code]()|[code]()|:green_square:Easy| Paytm
  
