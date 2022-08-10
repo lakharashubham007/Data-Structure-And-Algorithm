@@ -14,4 +14,5 @@
 |-----|----------------|----------|----------|-------------|-------- 
 |1|[Searching an element in a sorted array]()|[code]()|[code]()|:green_square:Easy| Paytm
 |2|[Square root of a number]()|[code]()|[code]()|:yellow_square:Mid| Accolite Amazon Flipkart Microsoft VMWare
+|3|[Majority Element]()|[code]()|[code]()|:yellow_square:Mid| Accolite Amazon D-E-Shaw Microsoft Nagarro Google Atlassian Flipkart
  
