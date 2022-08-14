@@ -17,4 +17,5 @@
 |3|[Majority Element]()|[code]()|[code]()|:yellow_square:Mid| Accolite Amazon D-E-Shaw Microsoft Nagarro Google Atlassian Flipkart
 |4|[Peak element]()|[code]()|[code]()|:green_square:Easy|  Adobe Amazon Google Visa Accolite
 |4|[Median of Two sorted arrays]()|[code]()|[code]()|:red_square:Hard| D-E-Shaw Linkedin Ola Cabs Samsung
+|5|[Floor in a Sorted Array]()|[code]()|[code]()|:green_square:Easy|  Amazon
  
