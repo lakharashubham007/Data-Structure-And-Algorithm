@@ -19,3 +19,4 @@
 |5|[Median of Two sorted arrays]()|[code]()|[code]()|:red_square:Hard| D-E-Shaw Linkedin Ola Cabs Samsung
 |6|[Floor in a Sorted Array]()|[code]()|[code]()|:green_square:Easy|  Amazon
 |7|[Maximum Water Between Two Buildings ]()|[code]()|[code]()|:red_square:Hard|Amazon
+|8|[Smallest Positive missing number]()|[code]()|[code]()|:yellow_square:Mid|  Accolite Amazon Samsung Snapdea
