@@ -7,7 +7,8 @@ int minDiff(int n, vector<int> arr){
    sort(arr.begin(), arr.end());
  
    // Initialize difference as infinite
-   int diff = INT_MAX;//INT_MAX is a macro that specifies that an integer variable cannot store any value beyond this limit. 
+   int diff = INT_MAX;//INT_MAX is a macro that specifies that an integer variable cannot store 
+   //any value beyond this limit. 
  
    // Find the min diff by comparing adjacent
    // pairs in sorted array
@@ -29,3 +30,9 @@ int main(){
     int ans = minDiff(n, arr);
     cout << ans << "\n";
 }
+
+/*
+Time Complexity: O(n log n).
+Auxiliary Space: O(1)
+
+*/
