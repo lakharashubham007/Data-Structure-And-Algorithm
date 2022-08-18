@@ -15,7 +15,7 @@
 |2|[Binary Array Sorting]()|[code]()|[code]()|:green_square:Easy|Accolite InfoEdge Intuit Paytm
 |3|[Count Inversions]()|[code]()|[code]()|:yellow_square:Mid|Adobe Amazon BankBazaar Flipkart Microsoft Myntra MakeMyTrip
 |4|[Union of Two Sorted Arrays ]()|[code]()|[code]()|:green_square:Easy| amazone
-|3|[xyz]()|[code]()|[code]()|:green_square:Easy| amazone
+|5|[Merge Without Extra Space]()|[code]()|[code]()|:red_square:Hard| Amdocs Brocade Goldman Sachs Juniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
 
 
 ## Searching Problems CompanyWise
