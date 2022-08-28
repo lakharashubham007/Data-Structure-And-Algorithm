@@ -38,5 +38,5 @@
 |  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag | Resources           
 |-----|----------------|----------|----------|-------------|---------- |----------------
 
-|1|[Power Of Numbers]()|[code]()|[code]()|:yellow_square:Mid| MakeMyTrip Walmart | https://www.youtube.com/watch?v=RCq5TYMZEwg ,https://www.youtube.com/watch?v=6021UbhPEdY
+|1|[Power Of Numbers]()|[code]()|[code]()|:yellow_square:Mid| MakeMyTrip Walmart | [link](https://www.youtube.com/watch?v=RCq5TYMZEwg) [link](https://www.youtube.com/watch?v=6021UbhPEdY)
 
