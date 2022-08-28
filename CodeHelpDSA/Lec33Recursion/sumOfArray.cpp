@@ -18,7 +18,7 @@ int getSum(int *arr, int size){
 
 int main() { 
 
-int arr[5] = { 2, 44, 6 ,8 ,9};
+int arr[5] = { 2, 1, 6 ,8 ,9};
 int size = 5;
 
 int sum = getSum(arr, size);

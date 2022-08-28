@@ -30,3 +30,13 @@
 |6|[Floor in a Sorted Array]()|[code]()|[code]()|:green_square:Easy|  Amazon
 |7|[Maximum Water Between Two Buildings ]()|[code]()|[code]()|:red_square:Hard|Amazon
 |8|[Smallest Positive missing number]()|[code]()|[code]()|:yellow_square:Mid|  Accolite Amazon Samsung Snapdea
+
+
+
+## RECURSION
+
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag | Resources           
+|-----|----------------|----------|----------|-------------|---------- |----------------
+
+|1|[Power Of Numbers]()|[code]()|[code]()|:yellow_square:Mid| MakeMyTrip Walmart | https://www.youtube.com/watch?v=RCq5TYMZEwg ,https://www.youtube.com/watch?v=6021UbhPEdY
+

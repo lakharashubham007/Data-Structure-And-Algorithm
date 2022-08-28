@@ -5,7 +5,7 @@ void reachHome(int src, int dest) {
     cout<< "sorce " << src << " -to -> " << " destination "<< dest << endl;
     //base case
     if(src == dest) {
-        cout<<"aagya bhai"<<endl;
+        cout<<"Reach at my home! Thankyou.."<<endl;
         return ;
     }
     //process
