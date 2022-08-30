@@ -42,3 +42,6 @@
 |2|[Lucky Numbers]()|[code]()|[code]()|:yellow_square:Mid| Microsoft | [video](https://www.youtube.com/watch?v=-Xzj2G-BkFs)
 |3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
 |3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
+|3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
+|3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
+|3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
