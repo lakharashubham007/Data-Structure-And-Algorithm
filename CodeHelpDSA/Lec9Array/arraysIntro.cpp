@@ -1,8 +1,14 @@
 #include<iostream>
 using namespace std;
 
-void printArray() {
+void printArray(int arr[], int size) {
+ 
+ cout<<"printing the array"<<endl;
 
+ for(int i=0; i<size; i++){
+    cout<<arr[i]<<" ";
+ }
+ cout<<"printing DONE"<<endl;
 }
 
 
@@ -22,21 +28,23 @@ int main() {
     int third[15] = { 2, 7 };
     
     int n = 15;
-    cout<<"print array"<<endl;
-   
-    for(int i=0; i<n; i++){
-        cout<<third[i]<<" ";
-    }
-
+    //cout<<"print array"<<endl;
+    printArray(third,15);
+    int thirdSize = sizeof(third)/sizeof(third[0]);
+    cout<<"size of thirdSize is: "<< thirdSize <<endl;
 
 //initialising all location with 1 is not possible  with below code
-    int four[15] = {1};
+    int four[10] = {1};
     
-    //int n = 10;
-    cout<<"print array"<<endl;
-   
-    for(int i=0; i<n; i++){
-        cout<<four[i]<<" ";
-    }
+   n = 10;
+  printArray(four,10);
+    
+    int fifth[10] = {1};
+    n=10;
+    printArray(fifth,10);
+
+    int fifthSize = sizeof(fifth)/sizeof(int);
+    cout<<"size of fifth is: "<< fifthSize <<endl; 
+    
     return 0;
 }
