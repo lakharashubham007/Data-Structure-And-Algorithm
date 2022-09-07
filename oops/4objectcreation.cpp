@@ -20,7 +20,6 @@ int main() {
 
 //Object Creation
 Codehelp first;
-
-//cout<<"printing the subs for first object "<< first.subs <<endl; 
+cout<<"printing the subs for first object "<< first.subs <<endl; 
 
 }

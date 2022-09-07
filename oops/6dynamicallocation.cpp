@@ -35,7 +35,7 @@ int main()
     Codehelp first;
      
    //Statoc Object Access
-   cout<<"Static object initialze with garbage value: "<<first.getSubs()<< endl;
+   cout<<first.getSubs()<< endl;
 
 
      // cout<<"printing the subs for first object "<< first.subs <<endl;
