@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//code
 
 void minMax(vector<int>&arr){
 
