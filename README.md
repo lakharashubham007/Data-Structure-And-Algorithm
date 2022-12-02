@@ -31,14 +31,10 @@
 |7|[Maximum Water Between Two Buildings ]()|[code]()|[code]()|:red_square:Hard|Amazon
 |8|[Smallest Positive missing number]()|[code]()|[code]()|:yellow_square:Mid|  Accolite Amazon Samsung Snapdea
 
+## Arrays
 
-
-## RECURSION
-
-|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag | Resources           
-|-----|----------------|----------|----------|-------------|---------- |----------------
-
-|1|[Power Of Numbers]()|[code]()|[code]()|:yellow_square:Mid| MakeMyTrip Walmart | [video](https://www.youtube.com/watch?v=RCq5TYMZEwg) [link](https://www.youtube.com/watch?v=6021UbhPEdY)
-|2|[Lucky Numbers]()|[code]()|[code]()|:yellow_square:Mid| Microsoft | [video](https://www.youtube.com/watch?v=-Xzj2G-BkFs)
-|3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
-|3|[xyz]()|[code]()|[code]()|:green_square:Easy| Microsoft | [video]()
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
+|-----|----------------|----------|----------|-------------|-------- 
+|1|[Get Min Max in the Arrays]()|[code]()|[code]()|:green_square:Easy| Snapdea
+|2|[]()|[code]()|[code]()|:yellow_square:Mid|Snapdea Snapdea
+|3|[]()|[code]()|[code]()|:green_square:Easy| Snapdea
