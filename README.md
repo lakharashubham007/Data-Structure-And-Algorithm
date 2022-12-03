@@ -35,6 +35,7 @@
 
 |  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
 |-----|----------------|----------|----------|-------------|-------- 
-|1|[Get Min Max in the Arrays]()|[code]()|[code]()|:green_square:Easy| Snapdea
-|2|[]()|[code]()|[code]()|:yellow_square:Mid|Snapdea Snapdea
-|3|[]()|[code]()|[code]()|:green_square:Easy| Snapdea
+|1|[Get Min Max in the Arrays]()|[code]()|[code]()|:green_square:Easy|      
+|2|[Reverse number]()|[code]()|[code]()|:yellow_square:Mid|          
+|3|[]()|[code]()|[code]()|:green_square:Easy|  
+
