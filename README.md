@@ -39,3 +39,13 @@
 |2|[Reverse number]()|[code]()|[code]()|:yellow_square:Mid|          
 |3|[]()|[code]()|[code]()|:green_square:Easy|  
 
+
+
+## Crio_DSA 
+
+|  #  |      Title     |   C++_Code   | JavaScript_Code   | Difficulty  | Tag            
+|-----|----------------|----------|----------|-------------|-------- 
+|1|[Reverse number ]()|[code]()|[code]()|:green_square:Easy|      
+|2|[Reverse number]()|[code]()|[code]()|:yellow_square:Mid|          
+|3|[]()|[code]()|[code]()|:green_square:Easy|  
+
