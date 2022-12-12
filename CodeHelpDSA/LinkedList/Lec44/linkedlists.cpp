@@ -8,18 +8,17 @@ class Node {
     int data;
     Node* next;
 
-    //Constructor == intialize data memeber
-    Node(int data) {
+    //Constructor
+    Node(int data){
         this -> data = data;
         this -> next = NULL;
     }
 };
 
 int main() {
-    
-    Node* node1 = new Node(500);
+    Node* node1 = new Node(10);
     cout<< node1 -> data <<endl;
-     cout<< node1 -> next <<endl;
+    cout<< node1 -> next <<endl;
 
     return 0;
 }
