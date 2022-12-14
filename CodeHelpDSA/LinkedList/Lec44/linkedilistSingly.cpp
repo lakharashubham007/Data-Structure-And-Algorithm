@@ -15,6 +15,12 @@ class Node {
     }
 };
 
+void InsertAtTail(Node* &tail, int d){
+   //new node
+   Node* temp = new Node(d);
+   tail -> next = temp;
+   tail = temp;
+}
 void InsertAtHead(Node* &head, int d){
 
     //new node create
@@ -40,15 +46,17 @@ int main() {
 
     //head pointer to node1
     Node* head = node1;
+    Node* tail = node1;
     print(head);
+    
 
-     InsertAtHead(head,12);
-
+     //InsertAtHead(head,12);
+     
+     InsertAtTail(tail,12);
      print(head);
-
-     InsertAtHead(head,15);
-
+     //InsertAtHead(head,15);
+     
+     InsertAtTail(tail,15);
      print(head);
-
     return 0;
 }
