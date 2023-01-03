@@ -9,7 +9,7 @@ int findElement(int arr[], int n, int key){
     
     return -1;
 }
-
+/aadd only ocmnmment
 int main() {
     int arr[] = { 12, 34 , 10 , 6, 40};
     int n = sizeof(arr)/sizeof(arr[0]);
