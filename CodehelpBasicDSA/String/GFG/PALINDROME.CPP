@@ -18,7 +18,7 @@ bool isPal(string &str){
 
 int main(){
     
-    string str = "abccba";
+    string str = "A man, a plan, a canal: Panama";
     isPal(str);
     if(isPal(str)==true){
         cout<<"String is palindrome"<<" "<<endl;
